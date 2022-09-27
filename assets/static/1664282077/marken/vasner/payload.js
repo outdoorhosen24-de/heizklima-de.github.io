@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/vasner", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/vasner-hybridheizung-hybrid-infrarotheizung-konvektionsheizung-konvi-1200-watt-vasner-6979843-1.jpg":"\u002Fassets\u002Fimages\u002Fvasner-hybridheizung-hybrid-infrarotheizung-konvektionsheizung-konvi-1200-watt-vasner-6979843-1.webp"}}],fetch:{},mutations:void 0});
