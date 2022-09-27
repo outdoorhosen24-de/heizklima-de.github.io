@@ -1,17 +1,17 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "suntec",
+        "name": "Suntec",
+        "slug": "suntec",
+        "productCategory": "Suntec",
+        "localThumb": "/assets/images/hersteller/suntec.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "globo",
+        "name": "Globo",
+        "slug": "globo",
+        "productCategory": "Globo",
+        "localThumb": "/assets/images/hersteller/globo.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +21,87 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "comfee",
+        "name": "Comfee",
+        "slug": "comfee",
+        "productCategory": "Comfee",
+        "localThumb": "/assets/images/hersteller/comfee.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "makita",
+        "name": "Makita",
+        "slug": "makita",
+        "productCategory": "Makita",
+        "localThumb": "/assets/images/hersteller/makita.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "vasner",
+        "name": "Vasner",
+        "slug": "vasner",
+        "productCategory": "Vasner",
+        "localThumb": "/assets/images/hersteller/vasner.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "leitz",
+        "name": "Leitz",
+        "slug": "leitz",
+        "productCategory": "Leitz",
+        "localThumb": "/assets/images/hersteller/leitz.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "beurer",
+        "name": "Beurer",
+        "slug": "beurer",
+        "productCategory": "Beurer",
+        "localThumb": "/assets/images/hersteller/beurer.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "metrox",
+        "name": "Metrox",
+        "slug": "metrox",
+        "productCategory": "Metrox",
+        "localThumb": "/assets/images/hersteller/metrox.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "humydry",
+        "name": "HUMYDRY",
+        "slug": "humydry",
+        "productCategory": "HUMYDRY",
+        "localThumb": "/assets/images/hersteller/humydry.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "soehnle",
+        "name": "Soehnle",
+        "slug": "soehnle",
+        "productCategory": "Soehnle",
+        "localThumb": "/assets/images/hersteller/soehnle.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "delonghi",
+        "name": "DeLonghi",
+        "slug": "delonghi",
+        "productCategory": "DeLonghi",
+        "localThumb": "/assets/images/hersteller/delonghi.webp"
+    },
+    {
+        "key": "midea",
+        "name": "Midea",
+        "slug": "midea",
+        "productCategory": "Midea",
+        "localThumb": "/assets/images/hersteller/midea.webp"
+    },
+    {
+        "key": "medion",
+        "name": "Medion",
+        "slug": "medion",
+        "productCategory": "Medion",
+        "localThumb": "/assets/images/hersteller/medion.webp"
+    },
+    {
+        "key": "einhell",
+        "name": "Einhell",
+        "slug": "einhell",
+        "productCategory": "Einhell",
+        "localThumb": "/assets/images/hersteller/einhell.webp"
     }
 ]
