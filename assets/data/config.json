@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "heizklima.de",
+    "hostname": "https://www.heizklima.de/",
+    "email": "heizklima.desurrealnetworks.io",
+    "organization": "heizklima.de",
+    "logoText": "Heizklima.de",
+    "title": "Heizen, Klima & Ventilatoren",
+    "subline": "Der Online Shop f\u00fcr Heizen, Klima & Ventilatoren",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "4938510",
+        "8248700",
+        "1045178",
+        "1589480",
+        "4938635",
+        "4938783"
+    ],
+    "winnerProducts": [
+        "1894740",
+        "5081260",
+        "4939112"
+    ],
+    "featuredCategories": [
+        "Luftbefeuchter & Luftentfeuchter",
+        "Luftbefeuchter & Luftentfeuchter",
+        "Elektrische Heizger\u00e4te",
+        "Luftbefeuchter & Luftentfeuchter",
+        "Luftreiniger",
+        "Elektrische Heizger\u00e4te"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Heizen, Klima & Ventilatoren",
-        "featureText": "Your featured text goes here",
+        "featureText": "In unserem Shop finden Sie alles rund um das Thema Heizen, Klima und Ventilatoren. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Produkten und beraten Sie gerne bei der Auswahl der richtigen Produkte f\u00fcr Ihre Bed\u00fcrfnisse.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Heizen, Klima & Ventilatoren - die beste Auswahl in der Stadt!",
+            "metaDescription": "Heizen, Klima & Ventilatoren - alles f\u00fcr ein angenehmes Raumklima. Klimager\u00e4te, Heizger\u00e4te, Ventilatoren und Zubeh\u00f6r von namhaften Marken.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Heizen, Klima & Ventilatoren",
+                    "text": "Heizen, Klima & Ventilatoren\n\nIn den kalten Monaten des Jahres ist eine funktionierende Heizung eine unerl\u00e4ssliche Voraussetzung f\u00fcr ein behagliches Zuhause. Die Wahl der richtigen Heizung h\u00e4ngt dabei von verschiedenen Faktoren ab, wie zum Beispiel der Gr\u00f6\u00dfe des Raumes, der Anzahl der Personen, die darin wohnen, oder auch der Art der Isolierung.\n\nEine zentrale Heizung ist in der Regel die beste Wahl f\u00fcr ein gro\u00dfes Haus mit mehreren R\u00e4umen. Sie ist zwar in der Anschaffung teurer als eine mobile Heizung, aber daf\u00fcr ist sie auch deutlich energieeffizienter. Au\u00dferdem kann sie in der Regel auch zur Klimatisierung des Hauses genutzt werden.\n\nF\u00fcr kleinere R\u00e4ume oder Wohnungen gibt es auch eine Reihe von kleineren Heizger\u00e4ten, die meistens auch deutlich g\u00fcnstiger sind. Die Wahl des richtigen Heizger\u00e4ts ist aber auch hier entscheidend, damit man nicht zu viel Geld f\u00fcr die Heizung ausgibt.\n\nEine gute Alternative zu einer herk\u00f6mmlichen Heizung ist auch eine Infrarotheizung. Diese funktioniert \u00e4hnlich wie die Sonne und erw\u00e4rmt die R\u00e4ume durch die Strahlung der Infrarot-Heizk\u00f6rper. Infrarotheizungen sind in der Anschaffung zwar teurer, aber daf\u00fcr auch deutlich energieeffizienter.\n\nVentilatoren sind eine weitere M\u00f6glichkeit, um die Raumtemperatur zu regulieren. Sie k\u00f6nnen sow"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Heizen, Klima & Ventilatoren Shop",
+            "metaDescription": "Heizen, Klima & Ventilatoren Shop - Jetzt klimatisieren & heizen g\u00fcnstig einkaufen!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Heizen, Klima & Ventilatoren manufacturer",
+            "metaDescription": "Heizen, Klima & Ventilatoren - Wir sind ein f\u00fchrender Hersteller von hochwertigen Heiz-, Klima- und Ventilationsprodukten.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Heizen, Klima & Ventilatoren",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER und $KATEGORIE bei Heizen, Klima & Ventilatoren. Jetzt online bestellen!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Heizen, Klima & Ventilatoren: $KATEGORIE",
+        "defaultMetaDescription": "$KATEGORIE: Heizen, Klima & Ventilatoren - Jetzt online bestellen bei Conrad! Gro\u00dfe Auswahl an $KATEGORIE zu g\u00fcnstigen Preisen.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner f\u00fcr Heizen, Klima & Ventilatoren. Wir bieten Ihnen eine gro\u00dfe Auswahl an Produkten und Dienstleistungen.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Heizen, Klima & Ventilatoren",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Heizen, Klima & Ventilatoren Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Heizen, Klima & Ventilatoren Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
