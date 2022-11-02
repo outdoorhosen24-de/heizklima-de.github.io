@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "heizklima.de",
     "hostname": "https://www.heizklima.de/",
     "email": "heizklima.desurrealnetworks.io",
     "organization": "heizklima.de",
     "logoText": "Heizklima.de",
     "title": "Heizen, Klima & Ventilatoren",
-    "subline": "Der Online Shop f\u00fcr Heizen, Klima & Ventilatoren",
+    "subline": "Der Online Shop für Heizen, Klima & Ventilatoren",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -30,10 +30,10 @@
     "featuredCategories": [
         "Luftbefeuchter & Luftentfeuchter",
         "Luftbefeuchter & Luftentfeuchter",
-        "Elektrische Heizger\u00e4te",
+        "Elektrische Heizgeräte",
         "Luftbefeuchter & Luftentfeuchter",
         "Luftreiniger",
-        "Elektrische Heizger\u00e4te"
+        "Elektrische Heizgeräte"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -46,26 +46,26 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Heizen, Klima & Ventilatoren",
-        "featureText": "In unserem Shop finden Sie alles rund um das Thema Heizen, Klima und Ventilatoren. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Produkten und beraten Sie gerne bei der Auswahl der richtigen Produkte f\u00fcr Ihre Bed\u00fcrfnisse.",
+        "featureText": "In unserem Shop finden Sie alles rund um das Thema Heizen, Klima und Ventilatoren. Wir bieten Ihnen eine große Auswahl an verschiedenen Produkten und beraten Sie gerne bei der Auswahl der richtigen Produkte für Ihre Bedürfnisse.",
         "index": {
             "title": "Heizen, Klima & Ventilatoren - die beste Auswahl in der Stadt!",
-            "metaDescription": "Heizen, Klima & Ventilatoren - alles f\u00fcr ein angenehmes Raumklima. Klimager\u00e4te, Heizger\u00e4te, Ventilatoren und Zubeh\u00f6r von namhaften Marken.",
+            "metaDescription": "Heizen, Klima & Ventilatoren - alles für ein angenehmes Raumklima. Klimageräte, Heizgeräte, Ventilatoren und Zubehör von namhaften Marken.",
             "robots": "index, follow",
             "texts": [
                 {
                     "title": "Heizen, Klima & Ventilatoren",
-                    "text": "Heizen, Klima & Ventilatoren\n\nIn den kalten Monaten des Jahres ist eine funktionierende Heizung eine unerl\u00e4ssliche Voraussetzung f\u00fcr ein behagliches Zuhause. Die Wahl der richtigen Heizung h\u00e4ngt dabei von verschiedenen Faktoren ab, wie zum Beispiel der Gr\u00f6\u00dfe des Raumes, der Anzahl der Personen, die darin wohnen, oder auch der Art der Isolierung.\n\nEine zentrale Heizung ist in der Regel die beste Wahl f\u00fcr ein gro\u00dfes Haus mit mehreren R\u00e4umen. Sie ist zwar in der Anschaffung teurer als eine mobile Heizung, aber daf\u00fcr ist sie auch deutlich energieeffizienter. Au\u00dferdem kann sie in der Regel auch zur Klimatisierung des Hauses genutzt werden.\n\nF\u00fcr kleinere R\u00e4ume oder Wohnungen gibt es auch eine Reihe von kleineren Heizger\u00e4ten, die meistens auch deutlich g\u00fcnstiger sind. Die Wahl des richtigen Heizger\u00e4ts ist aber auch hier entscheidend, damit man nicht zu viel Geld f\u00fcr die Heizung ausgibt.\n\nEine gute Alternative zu einer herk\u00f6mmlichen Heizung ist auch eine Infrarotheizung. Diese funktioniert \u00e4hnlich wie die Sonne und erw\u00e4rmt die R\u00e4ume durch die Strahlung der Infrarot-Heizk\u00f6rper. Infrarotheizungen sind in der Anschaffung zwar teurer, aber daf\u00fcr auch deutlich energieeffizienter.\n\nVentilatoren sind eine weitere M\u00f6glichkeit, um die Raumtemperatur zu regulieren. Sie k\u00f6nnen sow"
+                    "text": "Heizen, Klima & Ventilatoren\n\nIn den kalten Monaten des Jahres ist eine funktionierende Heizung eine unerlässliche Voraussetzung für ein behagliches Zuhause. Die Wahl der richtigen Heizung hängt dabei von verschiedenen Faktoren ab, wie zum Beispiel der Größe des Raumes, der Anzahl der Personen, die darin wohnen, oder auch der Art der Isolierung.\n\nEine zentrale Heizung ist in der Regel die beste Wahl für ein großes Haus mit mehreren Räumen. Sie ist zwar in der Anschaffung teurer als eine mobile Heizung, aber dafür ist sie auch deutlich energieeffizienter. Außerdem kann sie in der Regel auch zur Klimatisierung des Hauses genutzt werden.\n\nFür kleinere Räume oder Wohnungen gibt es auch eine Reihe von kleineren Heizgeräten, die meistens auch deutlich günstiger sind. Die Wahl des richtigen Heizgeräts ist aber auch hier entscheidend, damit man nicht zu viel Geld für die Heizung ausgibt.\n\nEine gute Alternative zu einer herkömmlichen Heizung ist auch eine Infrarotheizung. Diese funktioniert ähnlich wie die Sonne und erwärmt die Räume durch die Strahlung der Infrarot-Heizkörper. Infrarotheizungen sind in der Anschaffung zwar teurer, aber dafür auch deutlich energieeffizienter.\n\nVentilatoren sind eine weitere Möglichkeit, um die Raumtemperatur zu regulieren. Sie können sow"
                 }
             ]
         },
         "shop": {
             "title": "Heizen, Klima & Ventilatoren Shop",
-            "metaDescription": "Heizen, Klima & Ventilatoren Shop - Jetzt klimatisieren & heizen g\u00fcnstig einkaufen!",
+            "metaDescription": "Heizen, Klima & Ventilatoren Shop - Jetzt klimatisieren & heizen günstig einkaufen!",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Heizen, Klima & Ventilatoren manufacturer",
-            "metaDescription": "Heizen, Klima & Ventilatoren - Wir sind ein f\u00fchrender Hersteller von hochwertigen Heiz-, Klima- und Ventilationsprodukten.",
+            "metaDescription": "Heizen, Klima & Ventilatoren - Wir sind ein führender Hersteller von hochwertigen Heiz-, Klima- und Ventilationsprodukten.",
             "robots": "index, follow"
         }
     },
@@ -78,8 +78,8 @@
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
@@ -87,7 +87,7 @@
     },
     "categorySeo": {
         "defaultTitle": "Heizen, Klima & Ventilatoren: $KATEGORIE",
-        "defaultMetaDescription": "$KATEGORIE: Heizen, Klima & Ventilatoren - Jetzt online bestellen bei Conrad! Gro\u00dfe Auswahl an $KATEGORIE zu g\u00fcnstigen Preisen.",
+        "defaultMetaDescription": "$KATEGORIE: Heizen, Klima & Ventilatoren - Jetzt online bestellen bei Conrad! Große Auswahl an $KATEGORIE zu günstigen Preisen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner f\u00fcr Heizen, Klima & Ventilatoren. Wir bieten Ihnen eine gro\u00dfe Auswahl an Produkten und Dienstleistungen.",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner für Heizen, Klima & Ventilatoren. Wir bieten Ihnen eine große Auswahl an Produkten und Dienstleistungen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
