@@ -51,12 +51,15 @@
             "title": "Heizen, Klima & Ventilatoren - die beste Auswahl in der Stadt!",
             "metaDescription": "Heizen, Klima & Ventilatoren - alles für ein angenehmes Raumklima. Klimageräte, Heizgeräte, Ventilatoren und Zubehör von namhaften Marken.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Heizen, Klima & Ventilatoren",
-                    "text": "Heizen, Klima & Ventilatoren\n\nIn den kalten Monaten des Jahres ist eine funktionierende Heizung eine unerlässliche Voraussetzung für ein behagliches Zuhause. Die Wahl der richtigen Heizung hängt dabei von verschiedenen Faktoren ab, wie zum Beispiel der Größe des Raumes, der Anzahl der Personen, die darin wohnen, oder auch der Art der Isolierung.\n\nEine zentrale Heizung ist in der Regel die beste Wahl für ein großes Haus mit mehreren Räumen. Sie ist zwar in der Anschaffung teurer als eine mobile Heizung, aber dafür ist sie auch deutlich energieeffizienter. Außerdem kann sie in der Regel auch zur Klimatisierung des Hauses genutzt werden.\n\nFür kleinere Räume oder Wohnungen gibt es auch eine Reihe von kleineren Heizgeräten, die meistens auch deutlich günstiger sind. Die Wahl des richtigen Heizgeräts ist aber auch hier entscheidend, damit man nicht zu viel Geld für die Heizung ausgibt.\n\nEine gute Alternative zu einer herkömmlichen Heizung ist auch eine Infrarotheizung. Diese funktioniert ähnlich wie die Sonne und erwärmt die Räume durch die Strahlung der Infrarot-Heizkörper. Infrarotheizungen sind in der Anschaffung zwar teurer, aber dafür auch deutlich energieeffizienter.\n\nVentilatoren sind eine weitere Möglichkeit, um die Raumtemperatur zu regulieren. Sie können sow"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Heizen, Klima & Ventilatoren",
+                        "text": "Heizen, Klima & Ventilatoren\n\nIn den kalten Monaten des Jahres ist eine funktionierende Heizung eine unerlässliche Voraussetzung für ein behagliches Zuhause. Die Wahl der richtigen Heizung hängt dabei von verschiedenen Faktoren ab, wie zum Beispiel der Größe des Raumes, der Anzahl der Personen, die darin wohnen, oder auch der Art der Isolierung.\n\nEine zentrale Heizung ist in der Regel die beste Wahl für ein großes Haus mit mehreren Räumen. Sie ist zwar in der Anschaffung teurer als eine mobile Heizung, aber dafür ist sie auch deutlich energieeffizienter. Außerdem kann sie in der Regel auch zur Klimatisierung des Hauses genutzt werden.\n\nFür kleinere Räume oder Wohnungen gibt es auch eine Reihe von kleineren Heizgeräten, die meistens auch deutlich günstiger sind. Die Wahl des richtigen Heizgeräts ist aber auch hier entscheidend, damit man nicht zu viel Geld für die Heizung ausgibt.\n\nEine gute Alternative zu einer herkömmlichen Heizung ist auch eine Infrarotheizung. Diese funktioniert ähnlich wie die Sonne und erwärmt die Räume durch die Strahlung der Infrarot-Heizkörper. Infrarotheizungen sind in der Anschaffung zwar teurer, aber dafür auch deutlich energieeffizienter.\n\nVentilatoren sind eine weitere Möglichkeit, um die Raumtemperatur zu regulieren. Sie können sow"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Heizen, Klima & Ventilatoren Shop",
