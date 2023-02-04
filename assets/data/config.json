@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "heizklima.de",
     "hostname": "https://www.heizklima.de/",
     "email": "heizklima.de@surrealnetworks.io",
     "organization": "heizklima.de",
     "logoText": "Heizklima.de",
-    "title": "Heizen, Klima & Ventilatoren",
-    "subline": "Der Online Shop für Heizen, Klima & Ventilatoren",
+    "title": "Heizgeräte & Co",
+    "subline": "Das richtige Klima im eigenen Zuhause schaffen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Heizen, Klima & Ventilatoren",
-        "featureText": "In unserem Shop finden Sie alles rund um das Thema Heizen, Klima und Ventilatoren. Wir bieten Ihnen eine große Auswahl an verschiedenen Produkten und beraten Sie gerne bei der Auswahl der richtigen Produkte für Ihre Bedürfnisse.",
+        "featureText": "Herzlich willkommen in unserem Onlineshop! Ob warme, kalte oder saubere Luft: Bei uns finden Sie die passenden Geräte, um das Klima in Ihrem Heim nach Ihren Wünschen anzupassen. Wir führen hochwertige Produkte, alle in übersichtlichen Kategorien eingeteilt, um Ihnen die Suche zu vereinfachen. Entdecken Sie unser Sortiment über elektrische Heizgeräte, Ventilatoren bis hin zu Luftreinigern sowie Luftbefeuchter und Luftentfeuchter!",
         "index": {
-            "title": "Heizen, Klima & Ventilatoren - die beste Auswahl in der Stadt!",
-            "metaDescription": "Heizen, Klima & Ventilatoren - alles für ein angenehmes Raumklima. Klimageräte, Heizgeräte, Ventilatoren und Zubehör von namhaften Marken.",
+            "title": "Heizen, Klima & Ventilatoren | Für Ihr Zuhause nur das Beste",
+            "metaDescription": "In unserem Shop finden Sie alles für ein angenehmes Raumklima. Klimageräte, Heizgeräte, Ventilatoren und Zubehör von namhaften Marken. ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Heizen, Klima & Ventilatoren Shop",
-            "metaDescription": "Heizen, Klima & Ventilatoren Shop - Jetzt klimatisieren & heizen günstig einkaufen!",
+            "title": "Der Online Shop für Heizen, Klima & Ventilatoren",
+            "metaDescription": "Jetzt günstige Angebote sichern und einfach online unsere Produkte bestellen. Hochwertige Qualität | Renommierte Markenanbieter | Schnelle Lieferung",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Heizen, Klima & Ventilatoren manufacturer",
-            "metaDescription": "Heizen, Klima & Ventilatoren - Wir sind ein führender Hersteller von hochwertigen Heiz-, Klima- und Ventilationsprodukten.",
+            "title": "Heizen, Klima & Ventilatoren | Top Marken",
+            "metaDescription": "Vielfältige Markenauswahl zu günstigen Preisen: Makita • DeLonghi • Einhell • Beurer • Leitz • Medion • Comfee • Globo uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Heizen, Klima & Ventilatoren",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER und $KATEGORIE bei Heizen, Klima & Ventilatoren. Jetzt online bestellen!",
+        "defaultTitle": "$PRODUKT | heizklima.de",
+        "defaultMetaDescription": "Günstig $PRODUKT vom Hersteller $HERSTELLER kaufen und liefern lassen und viele weitere Produkte in unserer Auswahl über $KATEGORIE entdecken!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Heizen, Klima & Ventilatoren: $KATEGORIE",
-        "defaultMetaDescription": "$KATEGORIE: Heizen, Klima & Ventilatoren - Jetzt online bestellen bei Conrad! Große Auswahl an $KATEGORIE zu günstigen Preisen.",
+        "defaultTitle": "$KATEGORIE auf heizklima.de bestellen",
+        "defaultMetaDescription": "$KATEGORIE: passenden Produkte bei uns im Shop entdecken und einfach per Mausklick nach Hause liefern lassen.           ",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner für Heizen, Klima & Ventilatoren. Wir bieten Ihnen eine große Auswahl an Produkten und Dienstleistungen.",
+        "defaultTitle": "$HERSTELLER: Die besten Geräte & Zubehör ",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr zuverlässiger Ansprechpartner für Heizen, Klima & Ventilatoren. Wir bieten eine große Auswahl hochwertiger Produkte und tolle Angebote!",
         "defaultRobots": "index, follow",
         "brands": [
             {
