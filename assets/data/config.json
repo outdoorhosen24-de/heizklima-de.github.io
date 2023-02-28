@@ -52,11 +52,31 @@
             "metaDescription": "In unserem Shop finden Sie alles für ein angenehmes Raumklima. Klimageräte, Heizgeräte, Ventilatoren und Zubehör von namhaften Marken. ",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Heizen, Klima & Ventilatoren",
-                        "text": "Heizen, Klima & Ventilatoren\n\nIn den kalten Monaten des Jahres ist eine funktionierende Heizung eine unerlässliche Voraussetzung für ein behagliches Zuhause. Die Wahl der richtigen Heizung hängt dabei von verschiedenen Faktoren ab, wie zum Beispiel der Größe des Raumes, der Anzahl der Personen, die darin wohnen, oder auch der Art der Isolierung.\n\nEine zentrale Heizung ist in der Regel die beste Wahl für ein großes Haus mit mehreren Räumen. Sie ist zwar in der Anschaffung teurer als eine mobile Heizung, aber dafür ist sie auch deutlich energieeffizienter. Außerdem kann sie in der Regel auch zur Klimatisierung des Hauses genutzt werden.\n\nFür kleinere Räume oder Wohnungen gibt es auch eine Reihe von kleineren Heizgeräten, die meistens auch deutlich günstiger sind. Die Wahl des richtigen Heizgeräts ist aber auch hier entscheidend, damit man nicht zu viel Geld für die Heizung ausgibt.\n\nEine gute Alternative zu einer herkömmlichen Heizung ist auch eine Infrarotheizung. Diese funktioniert ähnlich wie die Sonne und erwärmt die Räume durch die Strahlung der Infrarot-Heizkörper. Infrarotheizungen sind in der Anschaffung zwar teurer, aber dafür auch deutlich energieeffizienter.\n\nVentilatoren sind eine weitere Möglichkeit, um die Raumtemperatur zu regulieren. Sie können sow"
+                        "title": "Willkommen bei Heizklima",
+                        "text": "Herzlich Willkommen auf Heizklima, Ihrem Online-Shop für alles rund um das Thema Heizen, Klima und Ventilatoren. Unser Sortiment umfasst eine große Auswahl an elektrischen Heizgeräten, Ventilatoren, Luftbefeuchtern & Luftentfeuchtern, Luftreinigern und Klimageräten. Ob Sie eine effiziente Lösung für Ihr Zuhause oder Ihr Büro suchen, bei uns finden Sie garantiert das richtige Gerät. Unsere Produkte zeichnen sich durch hohe Qualität und Funktionalität aus. Stöbern Sie in unserem Online-Shop und finden Sie das passende Gerät für Ihre Bedürfnisse. Bei Fragen steht Ihnen unser kompetentes Team jederzeit zur Verfügung."
+                    },
+                    {
+                        "title": "Elektrische Heizgeräte",
+                        "text": "<a href=\"/kategorie/elektrische-heizgeraete/\" title=\"Elektrische Heizgeräte\">Elektrische Heizgeräte</a> sind eine effiziente Lösung für eine bequeme Wärmeversorgung in Ihrem Zuhause. In unserem Online-Shop finden Sie eine breite Auswahl an elektrischen Heizgeräten, von kompakten Tischheizern bis hin zu großen Standheizungen. Alle Produkte sind von hoher Qualität und verfügen über fortschrittliche Funktionen, um Ihnen eine angenehme Wärme zu garantieren. Entdecken Sie jetzt die Vorteile elektrischer Heizgeräte und wärmen Sie Ihr Zuhause auf bequeme Art und Weise."
+                    },
+                    {
+                        "title": "Ventilatoren",
+                        "text": "Ein Ventilator ist ein unverzichtbares Gerät für warme Sommertage. Unsere Online-Shop bietet eine große Auswahl an <a href=\"/kategorie/ventilatoren/\" title=\"Ventilatoren\">Ventilatoren</a> in verschiedenen Größen und Designs. Ob Tischventilator, Standventilator oder Towerventilator, wir haben für jeden Bedarf das passende Gerät. Alle Ventilatoren sind leise und energiesparend, so dass Sie sich auf eine erfrischende Brise freuen können, ohne Ihre Stromrechnung zu belasten. Entdecken Sie jetzt unsere Ventilatoren und genießen Sie eine angenehme Kühle in Ihrem Zuhause."
+                    },
+                    {
+                        "title": "Luftbefeuchter & Luftentfeuchter",
+                        "text": "Ein Luftbefeuchter oder ein Luftentfeuchter ist ein wichtiger Bestandteil für ein gesundes Raumklima. Unsere Online-Shop bietet eine große Auswahl an Luftbefeuchtern und Luftentfeuchtern in verschiedenen Größen und Designs. Alle Produkte sind von hoher Qualität und verfügen über fortschrittliche Funktionen, um Ihnen ein optimales Raumklima zu garantieren. Entdecken Sie jetzt die Vorteile eines Luftbefeuchters oder Luftentfeuchters und verbessern Sie das Raumklima in Ihrem Zuhause."
+                    },
+                    {
+                        "title": "Luftreiniger",
+                        "text": "Eine gesunde Raumluft ist wichtig für das Wohlbefinden. Mit einem <a href=\"/kategorie/luftreiniger/\" title=\"Luftreiniger\">Luftreiniger</a> von Heizklima können Sie sicherstellen, dass Ihre Wohnräume frei von Schadstoffen und Partikeln sind. Unser Sortiment umfasst eine große Auswahl an hochwertigen Luftreinigern, die für jeden Bedarf und jede Größe von Räumen geeignet sind. Ob Allergiker, Raucher oder Tierhalter, wir haben das richtige Gerät für Sie."
+                    },
+                    {
+                        "title": "Klimageräte",
+                        "text": "Ein angenehmes Klima in den eigenen vier Wänden ist wichtig für das Wohlbefinden. Mit einem Klimagerät von Heizklima können Sie jederzeit eine optimale Raumtemperatur einstellen und so für ein behagliches Raumklima sorgen. Unser Sortiment umfasst eine große Auswahl an hochwertigen <a href=\"/kategorie/klimageraete/\" title=\"Klimageräte\">Klimageräte</a>n, die für jeden Bedarf und jede Größe von Räumen geeignet sind. Ob bei Hitze oder Kälte, wir haben das richtige Gerät für Sie."
                     }
                 ]
             }
