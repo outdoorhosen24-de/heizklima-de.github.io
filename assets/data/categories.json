@@ -2,7 +2,7 @@
     {
         "key": "elektrische heizgeräte",
         "name": "Elektrische Heizgeräte",
-        "slug": "elektrische-heizgerate",
+        "slug": "elektrische-heizgeraete",
         "productCategory": "Elektrische Heizgeräte",
         "subCategories": []
     },
@@ -30,7 +30,7 @@
     {
         "key": "klimageräte",
         "name": "Klimageräte",
-        "slug": "klimagerate",
+        "slug": "klimageraete",
         "productCategory": "Klimageräte",
         "subCategories": []
     }
