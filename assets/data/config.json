@@ -5,7 +5,7 @@
   "email": "heizklima.de@surrealnetworks.io",
   "organization": "heizklima.de",
   "logoText": "Heizklima.de",
-  "title": "Heizger\u00e4te & Co",
+  "title": "Heizgeräte & Co",
   "subline": "Das richtige Klima im eigenen Zuhause schaffen",
   "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
   "imageFolder": "/assets/images/images/",
@@ -30,10 +30,10 @@
   "featuredCategories": [
     "Luftbefeuchter & Luftentfeuchter",
     "Luftbefeuchter & Luftentfeuchter",
-    "Elektrische Heizger\u00e4te",
+    "Elektrische Heizgeräte",
     "Luftbefeuchter & Luftentfeuchter",
     "Luftreiniger",
-    "Elektrische Heizger\u00e4te"
+    "Elektrische Heizgeräte"
   ],
   "socialMediaAccounts": [],
   "imageQuality": 90,
@@ -46,64 +46,97 @@
   "seo": {
     "htmlLang": "de",
     "mainKeyword": "Heizen, Klima & Ventilatoren",
-    "featureText": "Herzlich willkommen in unserem Onlineshop! Ob warme, kalte oder saubere Luft: Bei uns finden Sie die passenden Ger\u00e4te, um das Klima in Ihrem Heim nach Ihren W\u00fcnschen anzupassen. Wir f\u00fchren hochwertige Produkte, alle in \u00fcbersichtlichen Kategorien eingeteilt, um Ihnen die Suche zu vereinfachen. Entdecken Sie unser Sortiment \u00fcber elektrische Heizger\u00e4te, Ventilatoren bis hin zu Luftreinigern sowie Luftbefeuchter und Luftentfeuchter!",
+    "featureText": "Herzlich willkommen in unserem Onlineshop! Ob warme, kalte oder saubere Luft: Bei uns finden Sie die passenden Geräte, um das Klima in Ihrem Heim nach Ihren Wünschen anzupassen. Wir führen hochwertige Produkte, alle in übersichtlichen Kategorien eingeteilt, um Ihnen die Suche zu vereinfachen. Entdecken Sie unser Sortiment über elektrische Heizgeräte, Ventilatoren bis hin zu Luftreinigern sowie Luftbefeuchter und Luftentfeuchter!",
     "index": {
-      "title": "Heizen, Klima & Ventilatoren | F\u00fcr Ihr Zuhause nur das Beste",
-      "metaDescription": "In unserem Shop finden Sie alles f\u00fcr ein angenehmes Raumklima. Klimager\u00e4te, Heizger\u00e4te, Ventilatoren und Zubeh\u00f6r von namhaften Marken. ",
+      "title": "Heizen, Klima & Ventilatoren | Für Ihr Zuhause nur das Beste",
+      "metaDescription": "In unserem Shop finden Sie alles für ein angenehmes Raumklima. Klimageräte, Heizgeräte, Ventilatoren und Zubehör von namhaften Marken. ",
       "robots": "index, follow",
       "seotext": {
         "published": true,
         "content": [
           {
             "title": "Willkommen bei Heizklima",
-            "text": "Herzlich Willkommen auf Heizklima, Ihrem Online-Shop f\u00fcr alles rund um das Thema Heizen, Klima und Ventilatoren. Unser Sortiment umfasst eine gro\u00dfe Auswahl an elektrischen Heizger\u00e4ten, Ventilatoren, Luftbefeuchtern & Luftentfeuchtern, Luftreinigern und Klimager\u00e4ten. Ob Sie eine effiziente L\u00f6sung f\u00fcr Ihr Zuhause oder Ihr B\u00fcro suchen, bei uns finden Sie garantiert das richtige Ger\u00e4t. Unsere Produkte zeichnen sich durch hohe Qualit\u00e4t und Funktionalit\u00e4t aus. St\u00f6bern Sie in unserem Online-Shop und finden Sie das passende Ger\u00e4t f\u00fcr Ihre Bed\u00fcrfnisse. Bei Fragen steht Ihnen unser kompetentes Team jederzeit zur Verf\u00fcgung."
+            "text": "Herzlich Willkommen auf Heizklima, Ihrem Online-Shop für alles rund um das Thema Heizen, Klima und Ventilatoren. Unser Sortiment umfasst eine große Auswahl an elektrischen Heizgeräten, Ventilatoren, Luftbefeuchtern & Luftentfeuchtern, Luftreinigern und Klimageräten. Ob Sie eine effiziente Lösung für Ihr Zuhause oder Ihr Büro suchen, bei uns finden Sie garantiert das richtige Gerät. Unsere Produkte zeichnen sich durch hohe Qualität und Funktionalität aus. Stöbern Sie in unserem Online-Shop und finden Sie das passende Gerät für Ihre Bedürfnisse. Bei Fragen steht Ihnen unser kompetentes Team jederzeit zur Verfügung."
           },
           {
-            "title": "Elektrische Heizger\u00e4te",
-            "text": "<a href=\"/kategorie/elektrische-heizgeraete/\" title=\"Elektrische Heizger\u00e4te\">Elektrische Heizger\u00e4te</a> sind eine effiziente L\u00f6sung f\u00fcr eine bequeme W\u00e4rmeversorgung in Ihrem Zuhause. In unserem Online-Shop finden Sie eine breite Auswahl an elektrischen Heizger\u00e4ten, von kompakten Tischheizern bis hin zu gro\u00dfen Standheizungen. Alle Produkte sind von hoher Qualit\u00e4t und verf\u00fcgen \u00fcber fortschrittliche Funktionen, um Ihnen eine angenehme W\u00e4rme zu garantieren. Entdecken Sie jetzt die Vorteile elektrischer Heizger\u00e4te und w\u00e4rmen Sie Ihr Zuhause auf bequeme Art und Weise."
+            "title": "Elektrische Heizgeräte",
+            "text": "<a href=\"/kategorie/elektrische-heizgeraete/\" title=\"Elektrische Heizgeräte\">Elektrische Heizgeräte</a> sind eine effiziente Lösung für eine bequeme Wärmeversorgung in Ihrem Zuhause. In unserem Online-Shop finden Sie eine breite Auswahl an elektrischen Heizgeräten, von kompakten Tischheizern bis hin zu großen Standheizungen. Alle Produkte sind von hoher Qualität und verfügen über fortschrittliche Funktionen, um Ihnen eine angenehme Wärme zu garantieren. Entdecken Sie jetzt die Vorteile elektrischer Heizgeräte und wärmen Sie Ihr Zuhause auf bequeme Art und Weise."
           },
           {
             "title": "Ventilatoren",
-            "text": "Ein Ventilator ist ein unverzichtbares Ger\u00e4t f\u00fcr warme Sommertage. Unsere Online-Shop bietet eine gro\u00dfe Auswahl an <a href=\"/kategorie/ventilatoren/\" title=\"Ventilatoren\">Ventilatoren</a> in verschiedenen Gr\u00f6\u00dfen und Designs. Ob Tischventilator, Standventilator oder Towerventilator, wir haben f\u00fcr jeden Bedarf das passende Ger\u00e4t. Alle Ventilatoren sind leise und energiesparend, so dass Sie sich auf eine erfrischende Brise freuen k\u00f6nnen, ohne Ihre Stromrechnung zu belasten. Entdecken Sie jetzt unsere Ventilatoren und genie\u00dfen Sie eine angenehme K\u00fchle in Ihrem Zuhause."
+            "text": "Ein Ventilator ist ein unverzichtbares Gerät für warme Sommertage. Unsere Online-Shop bietet eine große Auswahl an <a href=\"/kategorie/ventilatoren/\" title=\"Ventilatoren\">Ventilatoren</a> in verschiedenen Größen und Designs. Ob Tischventilator, Standventilator oder Towerventilator, wir haben für jeden Bedarf das passende Gerät. Alle Ventilatoren sind leise und energiesparend, so dass Sie sich auf eine erfrischende Brise freuen können, ohne Ihre Stromrechnung zu belasten. Entdecken Sie jetzt unsere Ventilatoren und genießen Sie eine angenehme Kühle in Ihrem Zuhause."
           },
           {
             "title": "Luftbefeuchter & Luftentfeuchter",
-            "text": "Ein Luftbefeuchter oder ein Luftentfeuchter ist ein wichtiger Bestandteil f\u00fcr ein gesundes Raumklima. Unsere Online-Shop bietet eine gro\u00dfe Auswahl an Luftbefeuchtern und Luftentfeuchtern in verschiedenen Gr\u00f6\u00dfen und Designs. Alle Produkte sind von hoher Qualit\u00e4t und verf\u00fcgen \u00fcber fortschrittliche Funktionen, um Ihnen ein optimales Raumklima zu garantieren. Entdecken Sie jetzt die Vorteile eines Luftbefeuchters oder Luftentfeuchters und verbessern Sie das Raumklima in Ihrem Zuhause."
+            "text": "Ein Luftbefeuchter oder ein Luftentfeuchter ist ein wichtiger Bestandteil für ein gesundes Raumklima. Unsere Online-Shop bietet eine große Auswahl an Luftbefeuchtern und Luftentfeuchtern in verschiedenen Größen und Designs. Alle Produkte sind von hoher Qualität und verfügen über fortschrittliche Funktionen, um Ihnen ein optimales Raumklima zu garantieren. Entdecken Sie jetzt die Vorteile eines Luftbefeuchters oder Luftentfeuchters und verbessern Sie das Raumklima in Ihrem Zuhause."
           },
           {
             "title": "Luftreiniger",
-            "text": "Eine gesunde Raumluft ist wichtig f\u00fcr das Wohlbefinden. Mit einem <a href=\"/kategorie/luftreiniger/\" title=\"Luftreiniger\">Luftreiniger</a> von Heizklima k\u00f6nnen Sie sicherstellen, dass Ihre Wohnr\u00e4ume frei von Schadstoffen und Partikeln sind. Unser Sortiment umfasst eine gro\u00dfe Auswahl an hochwertigen Luftreinigern, die f\u00fcr jeden Bedarf und jede Gr\u00f6\u00dfe von R\u00e4umen geeignet sind. Ob Allergiker, Raucher oder Tierhalter, wir haben das richtige Ger\u00e4t f\u00fcr Sie."
+            "text": "Eine gesunde Raumluft ist wichtig für das Wohlbefinden. Mit einem <a href=\"/kategorie/luftreiniger/\" title=\"Luftreiniger\">Luftreiniger</a> von Heizklima können Sie sicherstellen, dass Ihre Wohnräume frei von Schadstoffen und Partikeln sind. Unser Sortiment umfasst eine große Auswahl an hochwertigen Luftreinigern, die für jeden Bedarf und jede Größe von Räumen geeignet sind. Ob Allergiker, Raucher oder Tierhalter, wir haben das richtige Gerät für Sie."
           },
           {
-            "title": "Klimager\u00e4te",
-            "text": "Ein angenehmes Klima in den eigenen vier W\u00e4nden ist wichtig f\u00fcr das Wohlbefinden. Mit einem Klimager\u00e4t von Heizklima k\u00f6nnen Sie jederzeit eine optimale Raumtemperatur einstellen und so f\u00fcr ein behagliches Raumklima sorgen. Unser Sortiment umfasst eine gro\u00dfe Auswahl an hochwertigen <a href=\"/kategorie/klimageraete/\" title=\"Klimager\u00e4te\">Klimager\u00e4te</a>n, die f\u00fcr jeden Bedarf und jede Gr\u00f6\u00dfe von R\u00e4umen geeignet sind. Ob bei Hitze oder K\u00e4lte, wir haben das richtige Ger\u00e4t f\u00fcr Sie."
+            "title": "Klimageräte",
+            "text": "Ein angenehmes Klima in den eigenen vier Wänden ist wichtig für das Wohlbefinden. Mit einem Klimagerät von Heizklima können Sie jederzeit eine optimale Raumtemperatur einstellen und so für ein behagliches Raumklima sorgen. Unser Sortiment umfasst eine große Auswahl an hochwertigen <a href=\"/kategorie/klimageraete/\" title=\"Klimageräte\">Klimageräte</a>n, die für jeden Bedarf und jede Größe von Räumen geeignet sind. Ob bei Hitze oder Kälte, wir haben das richtige Gerät für Sie."
           }
         ]
       }
     },
     "shop": {
-      "title": "Der Online Shop f\u00fcr Heizen, Klima & Ventilatoren",
-      "metaDescription": "Jetzt g\u00fcnstige Angebote sichern und einfach online unsere Produkte bestellen. Hochwertige Qualit\u00e4t | Renommierte Markenanbieter | Schnelle Lieferung",
+      "title": "Der Online Shop für Heizen, Klima & Ventilatoren",
+      "metaDescription": "Jetzt günstige Angebote sichern und einfach online unsere Produkte bestellen. Hochwertige Qualität | Renommierte Markenanbieter | Schnelle Lieferung",
       "robots": "index, follow"
     },
     "hersteller": {
       "title": "Heizen, Klima & Ventilatoren | Top Marken",
-      "metaDescription": "Vielf\u00e4ltige Markenauswahl zu g\u00fcnstigen Preisen: Makita \u2022 DeLonghi \u2022 Einhell \u2022 Beurer \u2022 Leitz \u2022 Medion \u2022 Comfee \u2022 Globo uvm.",
+      "metaDescription": "Vielfältige Markenauswahl zu günstigen Preisen: Makita • DeLonghi • Einhell • Beurer • Leitz • Medion • Comfee • Globo uvm.",
       "robots": "index, follow"
     }
   },
   "productSeo": {
     "defaultTitle": "$PRODUKT | heizklima.de",
-    "defaultMetaDescription": "G\u00fcnstig $PRODUKT vom Hersteller $HERSTELLER kaufen und liefern lassen und viele weitere Produkte in unserer Auswahl \u00fcber $KATEGORIE entdecken!",
+    "defaultMetaDescription": "Günstig $PRODUKT vom Hersteller $HERSTELLER kaufen und liefern lassen und viele weitere Produkte in unserer Auswahl über $KATEGORIE entdecken!",
     "defaultRobots": "index, follow",
     "products": [
       {
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
         "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
           "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "1894740",
+        "seo": {
+          "texts": [
+            {
+              "title": "Humydry Raumentfeuchter Nachfüllpack Lavendel 450 g",
+              "text": "<p class=\"justify\">Der HUMYDRY Raumentfeuchter Nachfüllpack Lavendel 450 g ist eine hervorragende Lösung, um die Luftfeuchtigkeit in Ihren Räumen zu kontrollieren und gleichzeitig einen angenehmen Lavendelduft zu verbreiten. Diese Nachfüllpackung eignet sich für den Einsatz in verschiedenen Bereichen wie Wohnzimmer, Schlafzimmer, Badezimmer oder Büro. Die Marke HUMYDRY ist bekannt für ihre hohe Qualität und effiziente Leistung bei der Regulierung der Luftfeuchtigkeit und Schaffung einer frischen und angenehmen Atmosphäre.</p><p class=\"justify\">Das Produkt ist in der Kategorie \"Luftbefeuchter & Luftentfeuchter\"zu finden und gehört zu den Heizen, Klima & Ventilatoren-Produkten innerhalb der Technik-Rubrik. Mit einem Gewicht von 450 g ist dieses Nachfüllpack leicht und einfach zu handhaben. Die Anwendung ist denkbar einfach: Öffnen Sie das Nachfüllpack, füllen Sie den Raumentfeuchter mit den Lavendel-Granulaten auf und stellen Sie das Gerät dort auf, wo die Luftfeuchtigkeit reguliert werden soll. Das Risiko eines Schimmelbefalls wird somit gemindert, und ein angenehmes Raumklima gefördert.</p><p class=\"justify\">Der HUMYDRY Raumentfeuchter Nachfüllpack Lavendel 450 g hat eine GTIN13-Nummer von 8412857300189 und 8412857320187 und eine SKU-Nummer von 1894740. Das Produkt hat eine herausragende Bewertung von 5 Sternen erhalten und wurde dabei insgesamt 144 Mal bewertet. Damit unterstreicht es die hohen Qualitätsstandards und die Zufriedenheit der Kunden.</p><p class=\"justify\">Investieren Sie in den HUMYDRY Raumentfeuchter Nachfüllpack Lavendel 450 g, um sowohl die Umgebungsluft in Ihren Räumen zu verbessern als auch einen angenehmen Duft zu verbreiten. So schützen Sie Ihre Räumlichkeiten effektiv vor überhöhter Luftfeuchtigkeit und tragen zu einem gesunden und optimalen Raumklima bei.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5081260",
+        "seo": {
+          "texts": [
+            {
+              "title": "Comfee Mobiles Klimaanlage Eco Friendly Pro Weiß EEK: A+",
+              "text": "<p class=\"justify\">Die Comfee Mobiles Klimaanlage Eco Friendly Pro in Weiß ist ein hochwertiges und umweltfreundliches Klimagerät. Mit einer Energieeffizienzklasse von A+ kühlt es Räume von bis zu 34 m² und ist ideal für den Einsatz in Wohnungen, Häusern oder Büros. Durch das umweltfreundliche Kühlmittel R290 ist das Gerät besonders nachhaltig und frei von schädlichen Stoffen, wodurch Sie ein umweltbewusstes Kühlen, Entfeuchten und Ventilieren genießen können.</p><p class=\"justify\">Die mobile Klimaanlage verfügt über eine Kühlleistung von 10.000 BTU/h, was für eine schnelle und effiziente Kühlung der Räume sorgt. Die Comfee Mobiles Klimaanlage Eco Friendly Pro ist mit Leichtlauf-Rollen ausgestattet, die den Transport zwischen verschiedenen Räumen erleichtern. Der Temperaturbereich liegt zwischen 17°C und 35°C.</p><p class=\"justify\">Die Entfeuchtigkeitsleistung beträgt 72,2 L/24h, sodass auch eine gleichzeitige Entfeuchtung der Raumluft möglich ist. Dank der Fernbedienung ist das Gerät bequem von der Couch oder dem Bett aus steuerbar. Zusätzliche Funktionen wie der Schlafmodus und der 24-Stunden-Timer ermöglichen eine individuelle Anpassung der Klimatisierung an Ihre Bedürfnisse. Somit sparen Sie nicht nur Energie, sondern auch Kosten. Ein integrierter Staubfilter und das Slinger-Up-System sorgen für saubere und frische Luft in Ihrem Zuhause.</p><p class=\"justify\">Mit einem Geräuschpegel von 50-52 dB kommt die Comfee Mobiles Klimaanlage Eco Friendly Pro in Weiß leise daher und stört somit nicht die entspannte Atmosphäre in Ihrem Wohnraum. Überzeugen Sie sich selbst von der hohen Qualität, den umweltfreundlichen Eigenschaften und der einfachen Bedienung dieser mobilen Klimaanlage.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "4939112",
+        "seo": {
+          "texts": [
+            {
+              "title": "Leitz Ersatz-Aktivkohlefilter für Spezialfilter Allergie & Grippe TruSens Z-3000",
+              "text": "<p class=\"justify\">Der Leitz Ersatz-Aktivkohlefilter ist ein hochwertiges und effizientes Produkt, das speziell für die Verwendung im TruSens Z-3000 Luftreiniger entwickelt wurde. Es handelt sich um einen austauschbaren Filter für die Spezialfiltertrommel Allergie & Grippe, die das Herzstück der Luftreinigung bildet. Ein regelmäßiger Austausch ist für eine optimale Leistung des Luftreinigers erforderlich.</p><p class=\"justify\">Der Aktivkohlefilter ist eine von drei Filterstufen des Spezialfilters und besteht aus einem langlebigen Maschen-Vorfilter, einem antiviralen HEPA-Filter und einem Aktivkohlefilter. Der Filter mit Aktivkohlepellets bietet eine schützende Barriere gegen unerwünschte Gerüche und flüchtige organische Gase (VOCs). Die speziell entwickelte Kohlenstoffschicht entfernt diese Schadstoffe effektiv aus der Luft.</p><p class=\"justify\">Für optimale Reinigungsergebnisse sollte der Aktivkohlefilter alle 3 Monate (je nach Nutzungsdauer) gewechselt werden. Eine Kontrollleuchte am Luftreinigungsgerät zeigt rechtzeitig den anstehenden Filterwechsel an, sodass Sie immer über den aktuellen Zustand der Filter informiert sind. Das Produkt ist ideal für Menschen, die an Allergien oder Grippe leiden und eine saubere, gesunde Raumluft wünschen.</p><p class=\"justify\">Der Leitz Ersatz-Aktivkohlefilter ist ideal für die Verwendung im TruSens Z-3000 Luftreiniger, einem hochwertigen Gerät, das für seine Leistung, Qualität und Benutzerfreundlichkeit bekannt ist. Gönnen Sie sich und Ihrer Familie eine verbesserte Raumluftqualität und erhöhen Sie Ihr Wohlbefinden mit diesem hervorragenden Ersatzfilter.</p>"
+            }
+          ]
         }
       }
     ]
@@ -118,8 +151,8 @@
         "slug": "sporthosen",
         "name": "Sporthosen",
         "seo": {
-          "title": "Sporthosen g\u00fcnstig kaufen",
-          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
           "robots": "index, follow",
           "texts": [
             {
@@ -136,16 +169,16 @@
     ]
   },
   "brandSeo": {
-    "defaultTitle": "$HERSTELLER: Die besten Ger\u00e4te & Zubeh\u00f6r ",
-    "defaultMetaDescription": "$HERSTELLER ist Ihr zuverl\u00e4ssiger Ansprechpartner f\u00fcr Heizen, Klima & Ventilatoren. Wir bieten eine gro\u00dfe Auswahl hochwertiger Produkte und tolle Angebote!",
+    "defaultTitle": "$HERSTELLER: Die besten Geräte & Zubehör ",
+    "defaultMetaDescription": "$HERSTELLER ist Ihr zuverlässiger Ansprechpartner für Heizen, Klima & Ventilatoren. Wir bieten eine große Auswahl hochwertiger Produkte und tolle Angebote!",
     "defaultRobots": "index, follow",
     "brands": [
       {
         "key": "palm",
         "name": "Palm",
         "seo": {
-          "title": "Produkte von Palm g\u00fcnstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
           "robots": "index, follow"
         }
       }
